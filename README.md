@@ -1,9 +1,22 @@
 # react-video-chat
 
-**install dependences:**
-npm install  and npm start
+**install & start dependencies** 
 
-and
 
-_cd client_
-npm install npm start
+**cd server**
+
+npm install
+
+npm start
+
+
+**cd client**
+
+npm install
+
+npm start
+
+
+
+
+
